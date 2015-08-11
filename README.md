@@ -12,7 +12,7 @@ If you have questions or issues with a plugin, please post your questions on sta
 </p>
 <img src="doc/combobox.png"/>
 
-<h4><a href="grid.md">Grid</a></h4>
+<h4><a href="Grid.md">Grid</a></h4>
 <p style="text-align: left;">
   A jQuery UI based grid widget backed by the extremely scalable <a href="https://github.com/mleibman/SlickGrid">SlickGrid</a>.
 </p>
